@@ -1,0 +1,9 @@
+body{
+    background-image: url('../Assets/background.jpg');
+}
+
+.foto{
+    padding-left: 250px;
+    height: 500px;
+    width: 500px;
+}
